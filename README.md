@@ -10,4 +10,4 @@ Statewise plot of confirmed cases in confirmed_cases_plot
 
 Model output of statewise predicted plots in model_output
 
-*Script last run and outputs as of 22 August 2020*
+*Script last run and outputs as of 22 August 2020*.
